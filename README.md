@@ -19,35 +19,7 @@ JSON Server
 Vite
 
 
-📁 Estrutura do projeto
-src/
-├── components/
-│   ├── TaskForm.jsx    → formulário de criação e edição
-│   ├── TaskList.jsx    → lista de profissionais
-│   └── TaskItem.jsx    → card individual de cada profissional
-├── services/
-│   └── taskService.js  → chamadas à API (GET, POST, PUT, DELETE)
-└── App.jsx             → estado global e orquestração
-
-🚀 Como rodar localmente
-Pré-requisitos: Node.js instalado na sua máquina.
-bash# 1. Clone o repositório
-git clone https://github.com/seu-usuario/dev-board.git
-
-# 2. Entre na pasta do projeto
-cd dev-board
-
-# 3. Instale as dependências
-npm install
-
-# 4. Inicie o JSON Server
-npx json-server --watch src/backend/db.json --port 3000
-
-# 5. Em outro terminal, inicie o projeto
-npm run dev
-Acesse em: http://localhost:5174
-
-📚 O que aprendi
+O que aprendi
 
 Componentização no React
 Gerenciamento de estado com useState
@@ -56,7 +28,6 @@ Comunicação entre componentes via props e callbacks
 Consumo de API REST com fetch
 Operações CRUD completas
 
-
-👩‍💻 Desenvolvedora
+Desenvolvedora
 Feito com dedicação por Ana Carolina Teixeira
 LinkedIn • GitHub
