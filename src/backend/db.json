@@ -1,0 +1,64 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Ana Carolina Teixeira",
+      "profissao": "Desenvolvedor Front-end",
+      "nivel": "Júnior"
+    },
+    {
+      "id": "2",
+      "nome": "Adriana Martins",
+      "profissao": "QA Enginner",
+      "nivel": "Sênior"
+    },
+    {
+      "id": "3",
+      "nome": "Mariana Costa",
+      "profissao": "UX/UI Designer",
+      "nivel": "Pleno"
+    },
+    {
+      "id": "4",
+      "nome": "Beatriz Lima",
+      "profissao": "QA Engineer",
+      "nivel": "Júnior"
+    },
+    {
+      "id": "5",
+      "nome": "Juliana Nunes",
+      "profissao": "Cientista de Dados",
+      "nivel": "Pleno"
+    },
+    {
+      "id": "6",
+      "nome": "Camila Dias",
+      "profissao": "Gerente de Projetos de TI",
+      "nivel": "Sênior"
+    },
+    {
+      "id": "7",
+      "nome": "Fernanda Rocha",
+      "profissao": "Engenheira de Dados",
+      "nivel": "Sênior"
+    },
+    {
+      "id": "8",
+      "nome": "Larissa Monteiro",
+      "profissao": "Desenvolvedora Mobile",
+      "nivel": "Júnior"
+    },
+    {
+      "id": "9",
+      "nome": "Priscila Andrade",
+      "profissao": "Arquiteta de Software",
+      "nivel": "Especialista"
+    },
+    {
+      "id": "11",
+      "nome": "Renata Figueiredo",
+      "profissao": "Product Manager",
+      "nivel": "Sênior"
+    }
+  ]
+}
