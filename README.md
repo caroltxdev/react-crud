@@ -1,4 +1,5 @@
 Dev Board
+
 Aplicação desenvolvida para praticar o CRUD clássico — Create, Read, Update e Delete — utilizando React e Tailwind CSS com JSON Server como API simulada.
 O projeto foi um passo importante na minha jornada como desenvolvedora front-end, consolidando conceitos fundamentais que pretendo aplicar no e-commerce que estou construindo. De bônus, aproveitei para adicionar eu e minha mãe na lista. 💜
 
